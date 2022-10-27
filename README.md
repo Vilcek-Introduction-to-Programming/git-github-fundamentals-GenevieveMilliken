@@ -90,9 +90,10 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Homework
 
-Open a pull request to let me know that you’ve finished this course (You can just edit this page and commit to a pull request).
-Create a new markdown or text file in this repository. Let me know what you learned and what you are still confused about. Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
-Save the file, commit the changes, and push the homework to the GitHub repository for the homework.
+* Open a pull request to let me know that you’ve finished this course (You can just edit this page and commit to a pull request).
+* Create a new markdown or text file in this repository. Let me know what you learned and what you are still confused about. 
+* Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
+* Save the file, commit the changes, and push the homework to the GitHub repository for the homework.
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
